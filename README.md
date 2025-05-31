@@ -4,14 +4,16 @@
 - 🔥 **Passionate about Android Development** and building amazing mobile apps
 - 📫 **How to reach me**: [vanshpal921@gmail.com](mailto:vanshpal921@gmail.com)
 
----
+
+
+
 
 ### 🛠️ Technologies & Tools
 
 - **Languages:** C, C++, Java, Kotlin
-- **Frameworks:** Spring Boot, Android SDK
-- **Databases:** MySQL, PostgreSQL
-- **Tools:** Git, Docker, IntelliJ IDEA, Android Studio
+- **Frameworks:** Jetpack Compose, Android SDK, Spring Boot
+- **Databases:** SQLite, PostgreSQL
+- **Tools:** Git, IntelliJ IDEA, Android Studio
 
 <!--
 **vanshpal122/vanshpal122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
