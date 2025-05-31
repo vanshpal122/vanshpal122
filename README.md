@@ -8,7 +8,7 @@
 
 ### 🛠️ Technologies & Tools
 
-- **Languages:** Java, Kotlin, JavaScript
+- **Languages:** C, C++, Java, Kotlin
 - **Frameworks:** Spring Boot, Android SDK
 - **Databases:** MySQL, PostgreSQL
 - **Tools:** Git, Docker, IntelliJ IDEA, Android Studio
